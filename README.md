@@ -1,2 +1,1 @@
-# pebblewatchfaces
-simple pebble watchfaces
+plain pebble watchfaces, background color: white, changes to black on bluetooth disconnect.
